@@ -1,9 +1,9 @@
 <?php
-$url = 'https://graph.facebook.com/v2.9';
+$url = 'https://www.facebook.com/colegioequipe1/';
 $fields = array(
             'id'=>urlencode('http://m-l-a-b-s.com'),
             'scrape'=>urlencode(true),
-            'access_token'=>"<coloque_seu_token_do_aplicativo_facebook_aqui>"
+            'access_token'=>"<737624206422211|MOaNOhjy61xEzJSSFq8UlBVm2sc>"
         );
 
 $fields_string = '';
